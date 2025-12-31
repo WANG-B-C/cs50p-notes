@@ -15,7 +15,7 @@ I'm currently learning Python and data analysis to transition into applied AI/da
 
 ## Next Steps
 - Finish CS50P
-- Understanding how code can be applied to biological data
+- Understande how code can be applied to biological data
 - Learn pandas and data visualization
 - Start a small biological data analysis project
 
