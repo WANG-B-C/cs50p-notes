@@ -6,8 +6,8 @@ I have a bachelor's degree in Bioengineering.
 I'm currently learning Python and data analysis to transition into applied AI/data roles in life sciences.
 
 ## Current Learning
-- CS50P (Harvard, edX) – Week 3
-- Python basics: variables, loops, functions, conditional, dictionary
+- Python, CS50P (Harvard, edX) – Week 5
+- SQL, ThoughtSpot - Basic SQL
 
 ## What I'm Practicing
 - Writing small Python programs
@@ -15,10 +15,11 @@ I'm currently learning Python and data analysis to transition into applied AI/da
 
 ## Next Steps
 - Finish CS50P
+- Sharpen SQL skills
 - Understand how code can be applied to biological data
 - Learn pandas and data visualization
 - Start a small biological data analysis project
 
 ## Timeline
 - 2025.12 CS50P week 0 & 1 & 2
-- 2026.01 CS50P week 3
+- 2026.01 CS50P week 3 & 4, Basic SQL
